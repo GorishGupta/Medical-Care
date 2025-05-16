@@ -83,8 +83,10 @@ Builds the app for production.
 npm run preview
 Previews the production build locally.
 
-![image](https://github.com/user-attachments/assets/ae49b1e2-0c95-4007-aac2-02fd7ae8f4c5)
-![image](https://github.com/user-attachments/assets/44e6e495-d922-4eba-a4d6-d37a5f4c9bda)
-![image](https://github.com/user-attachments/assets/30a0056c-3ad7-462a-9ab0-0dc93b9fce60)
-![image](https://github.com/user-attachments/assets/f403d1d6-eb88-4fb2-9bd1-849f18e479ec)
+![image](https://github.com/user-attachments/assets/88025975-872d-4451-817c-2859bf85f71c)
+![image](https://github.com/user-attachments/assets/974da44e-178f-47f1-8b53-715c144e40ee)
+
+![image](https://github.com/user-attachments/assets/48edc03c-4c6a-4067-83e6-464859a22def)
+![image](https://github.com/user-attachments/assets/519f9a15-1cab-445d-ad2b-7cd44f8cf9bf)
+
 
